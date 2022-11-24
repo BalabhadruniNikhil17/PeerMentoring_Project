@@ -1,5 +1,5 @@
 Project Title*:
-RekhaFinancial
+Nikhil Financial
 
 Problem Statement/Opportunity*:
 To create a web application based on financial technology to make people life easier and better to know the updates of all financial technology and also to implement azure service like chatbot and many more.
